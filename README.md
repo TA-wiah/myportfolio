@@ -40,4 +40,4 @@ Thank you for visiting my personal portfolio repository! I hope you find it info
 ![Portfolio](https://github.com/TA-wiah/myportfolio/assets/img/darktheme.png)
 
 
-![Portfolio](https://github.com/TA-wiah/myportfolio/assets/img/whitetheme.png)
+![Portfolio](https://github.com/TA-wiah/myportfolio/assets/img/witetheme.png)
